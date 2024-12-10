@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi Main
-=======
-Hi Feature
->>>>>>> feature4
+this is remote main.
