@@ -14,3 +14,10 @@ git stash -- <file>: Save changes for specific files.
 git stash -a: Save all files, including ignored ones.
 git stash apply / git stash pop: Restore stashed changes.
 git stash drop / git stash clear: Manage or delete stashes.
+
+
+Date - 11/12/24
+
+- create and handle pull request
+- git rebase
+- orphan branch
