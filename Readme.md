@@ -28,3 +28,11 @@ Date - 12/12/24
 -  Decision making (if, if-else, if- else-if ladder, switch case.
 - loops - (for, 
 while, do-while, break, continue)
+
+
+Date - 13/12/24
+- Arrays in C++ (1d and multidimensional).
+- Pointers in C++.
+- Classes and Objects . 
+
+
