@@ -21,3 +21,10 @@ Date - 11/12/24
 - create and handle pull request
 - git rebase
 - orphan branch
+
+Date - 12/12/24
+- Introduction to C++. 
+- Data Types in C++.
+-  Decision making (if, if-else, if- else-if ladder, switch case.
+- loops - (for, 
+while, do-while, break, continue)
