@@ -32,7 +32,13 @@ int main()
 
     // car1.displayInfo();
 
-    // Car car2("")
+    Car car2("Toyota","Corolla",2015);
+    car2.displayInfo();
+
+    Car* car3 = new Car("ABC","iosjk",2013);
+    car3->displayInfo();
+
+    delete car3;
 
     return 0;
 }
