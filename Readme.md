@@ -51,8 +51,11 @@ This repository contains the progress and work done for the C++ learning journey
 - **Pass by Value** and **Pass by Reference**.
 - Code Hygiene.
 
-## Future Work
-The repository will continue to evolve as I explore more advanced topics in C++ and software development.
+### Date - 17/12/24
+- Pointers of different datatypes.
+- String and some of it's functions.
+
+
 
 ---
 
