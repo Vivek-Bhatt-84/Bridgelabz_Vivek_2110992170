@@ -56,6 +56,11 @@ This repository contains the progress and work done for the C++ learning journey
 - String and some of it's functions.
 
 
+### Date - 20/1/25
+- Linked List implementation.(singly and doubled)
+- stack and queue implementation (using arrays and linked list)
+
+
 
 ---
 
