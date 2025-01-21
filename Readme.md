@@ -60,8 +60,9 @@ This repository contains the progress and work done for the C++ learning journey
 - Linked List implementation.(singly and doubled)
 - stack and queue implementation (using arrays and linked list)
 
-
-
+### Date - 21/1/25
+- circular Linked List implementation.
+- Dynamic arrays implementation 
 ---
 
 ## Git Commands Cheat Sheet
